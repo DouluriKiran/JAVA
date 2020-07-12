@@ -2,10 +2,10 @@
 
 # Modules Overview:
 
-User registration module: This module is helpful for the registration of the new customer.
-Login module: This module performs the login of the registered customer. In this module Customer-id and password is verified.
-Reservation module: This module performs the reservation of the ticket to the registered module.
-Cancellation module: This module performs the cancellation of the reserved ticket.
+1.	User registration module: This module is helpful for the registration of the new customer.
+2.	Login module: This module performs the login of the registered customer. In this module Customer-id and password is verified.
+3.	Reservation module: This module performs the reservation of the ticket to the registered module.
+4.	Cancellation module: This module performs the cancellation of the reserved ticket.
 
 #  Airlines Reservation System Java Project
 
